@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Praharsh.
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning basics of everything
+- 👋 Hi, my name is Praharsh.
+- 👀 I’m a Tech Enthusiast
+- 🌱 I’m currently learning basics of everything, majorly Python,R anything related to DataScience field.
 - 💞️ I’m looking to collaborate on small projects for practice.
 - 📫 How to reach me Twitter-https://x.com/Praharsh_A_?s=08
 
