@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Praharsh.
 - 👀 I’m a Tech Enthusiast
-- 🌱 I’m currently learning basics of everything, majorly Python,R anything related to DataScience field.
+- 🌱 I’m currently learning, majorly Python,R anything related to Data Science field.
 - 💞️ I’m looking to collaborate on small projects for practice.
 - 📫 How to reach me Twitter-https://x.com/Praharsh_A_?s=08
 
